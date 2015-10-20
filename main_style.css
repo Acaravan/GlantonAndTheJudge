@@ -8,4 +8,32 @@
 			text-align: center;
 			height: 30%;
 			border: 10px solid white;
-		}
+	}
+	a {
+		color: inherit;
+		text-decoration: inherit;
+	}
+	ul {
+			width: 100%;
+    			list-style-type: none;
+    			padding: 10px;
+   	 		margin: 20px;
+	} 
+	li {
+			text-align: center;
+			width: 100%;
+			color: #000000;	
+			font-weight: bold;
+			display: inline-block;
+			background-color: #FF0000;
+			border-radius: 25px;
+	}
+	li:hover {
+			color: yellow;
+	}
+	.main_menu {
+			width: 20%;
+	}
+	body{
+			background-image: url("https://oak.ucc.nau.edu/jgr6/sunset1.jpg");
+	}
