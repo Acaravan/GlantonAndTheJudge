@@ -37,3 +37,10 @@
 	body{
 			background-image: url("https://oak.ucc.nau.edu/jgr6/sunset1.jpg");
 	}
+	.entry{
+	color: white;	
+	font-weight: bold;	
+	}
+	.entry:hover{
+		color: yellow;
+	}
