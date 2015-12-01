@@ -48,6 +48,7 @@
 			color: white;	
 			font-weight: bold;
 			float: left;
+			clear: left;
 	}
 	
 	.entry:hover{
