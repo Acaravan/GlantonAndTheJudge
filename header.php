@@ -1,3 +1,7 @@
+<?php
+
+?>
+
 <link rel="stylesheet" type="text/css" href="main_style.css">
 
 		<div class="tits"> Glanton And The Judge</div>
